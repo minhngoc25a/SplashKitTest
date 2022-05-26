@@ -1,0 +1,16 @@
+C:\Users\Admin\RiderProjects\SplashKitTest\bin\Debug\netcoreapp5.0\SplashKitTest.exe
+C:\Users\Admin\RiderProjects\SplashKitTest\bin\Debug\netcoreapp5.0\SplashKitTest.deps.json
+C:\Users\Admin\RiderProjects\SplashKitTest\bin\Debug\netcoreapp5.0\SplashKitTest.runtimeconfig.json
+C:\Users\Admin\RiderProjects\SplashKitTest\bin\Debug\netcoreapp5.0\SplashKitTest.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\SplashKitTest\bin\Debug\netcoreapp5.0\SplashKitTest.dll
+C:\Users\Admin\RiderProjects\SplashKitTest\bin\Debug\netcoreapp5.0\SplashKitTest.pdb
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.dll
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\refint\SplashKitTest.dll
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.pdb
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\SplashKitTest.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\SplashKitTest\obj\Debug\netcoreapp5.0\ref\SplashKitTest.dll
